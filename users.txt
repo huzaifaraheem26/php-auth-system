@@ -1,0 +1,1 @@
+{"full_name":"Huzaifa","email":"huzaifaraheem960@gmail.com","username":"huzaifa@960","password":"$2y$10$.\/xyN5rrWUp4MzfvnSSlgubBoFkCknzzMW5pphT5Fr1lvMlpUpdiK"}
